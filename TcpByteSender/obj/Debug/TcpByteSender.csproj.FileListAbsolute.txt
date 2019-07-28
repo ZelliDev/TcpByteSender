@@ -1,0 +1,7 @@
+G:\Programmation\TcpByteSender\TcpByteSender\bin\Debug\TcpByteSender.exe.config
+G:\Programmation\TcpByteSender\TcpByteSender\bin\Debug\TcpByteSender.exe
+G:\Programmation\TcpByteSender\TcpByteSender\bin\Debug\TcpByteSender.pdb
+G:\Programmation\TcpByteSender\TcpByteSender\obj\Debug\TcpByteSender.csprojAssemblyReference.cache
+G:\Programmation\TcpByteSender\TcpByteSender\obj\Debug\TcpByteSender.csproj.CoreCompileInputs.cache
+G:\Programmation\TcpByteSender\TcpByteSender\obj\Debug\TcpByteSender.exe
+G:\Programmation\TcpByteSender\TcpByteSender\obj\Debug\TcpByteSender.pdb
